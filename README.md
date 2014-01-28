@@ -1,7 +1,7 @@
 fBFriends
 =========
 
-### [Demo](http://topzone.dyndns.org:9080/fBfriends)
+### [Demo](http://topzone.dyndns.org:9080/fBFriends)
 
 ## Install
 
