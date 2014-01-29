@@ -1,7 +1,7 @@
 fBFriends
 =========
 
-### [Demo](http://topzone.dyndns.org:9080/fBFriends)
+### [Demo](http://fbfriend.herokuapp.com/)
 
 ## Install
 
